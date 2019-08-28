@@ -1,5 +1,5 @@
 # espSwitcher
-ESP32 443MHz relay controller with display and weather info
+ESP32 443MHz relay controller with display, weather info and alarm clock
 
 Configured to use KlikAanKlikUit relays but could be configured to use different ones
 
