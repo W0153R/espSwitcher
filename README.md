@@ -8,6 +8,7 @@ Uses the following libraries:
 - RemoteTransmitter
 - TFT_eSPI
 - WiFiManager(-dev)
+
 A version of these are included in this repo, except ArduinoJSON.
 
 Some of it could be written a lot better but my goal was to minimize memory-usage (littlevgl uses quite a lot).
